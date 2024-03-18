@@ -21,3 +21,24 @@
     margin:0 16px;
     font-size: 20px;
 }
+
+.sobre2{
+    padding: 20%
+}
+
+.sobre-titulo{
+    padding: 24px 0;
+}
+
+.imagem{
+    width: 25%;
+}
+
+.sobre{
+    background-image: linear-gradient(#3b83f7,#0a1526);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
